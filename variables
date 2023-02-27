@@ -1,6 +1,6 @@
 port=COM6
 sql=data
 rate1=0.292,set1=36
-rate2=0.219,set2=72            
+rate2=0.219,set2=72        
 rate3=0.123,set3=90
 rate4=0.052
